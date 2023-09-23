@@ -3,7 +3,6 @@ public class CadastroCliente {
     String nome;
     String doc;
     float saldo;
-
     //CONSTRUTOR 
     public CadastroCliente(int num_conta,String nome,String doc,float saldo){
         this.num_conta=num_conta;
